@@ -1,0 +1,3 @@
+# fitme
+FitMe Is Java Application 
+The Java project developed for tracking health-related information allows users to log in using their username and password from a MySQL database. The application is built using Java and Swing, which are popular technologies for building desktop applications. With this application, users can keep track of their health data, such as weight, daily food intake, exercise routine, and other health-related information. The app can provide useful insights into a user's health habits and help them make better decisions about their lifestyle choices. The application can be extended to integrate with other health-related services and technologies, making it a valuable tool for managing and improving one's health.
