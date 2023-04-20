@@ -7,10 +7,11 @@ The Java project developed for tracking health-related information allows users 
 ![f4](https://user-images.githubusercontent.com/55556198/233422861-ab953dd7-6b75-486a-bbc7-cb84494b1c93.PNG)
 ___
 ![f1](https://user-images.githubusercontent.com/55556198/233422870-5d5b9b2a-3bf6-4de4-9694-92f8ecbda0b9.PNG)
+![f3](https://user-images.githubusercontent.com/55556198/233422878-a32750db-56a0-463f-ab91-6c89949c62d2.PNG)
+
 ___
 ![f5](https://user-images.githubusercontent.com/55556198/233422843-0306674c-8f27-4c66-a13b-1cfc39b1dc2b.PNG)
 
 ![f2](https://user-images.githubusercontent.com/55556198/233422875-55679c71-a604-43f2-9d68-56bd0f6845ec.PNG)
 ![f6](https://user-images.githubusercontent.com/55556198/233422865-72e44985-0e86-461c-bc00-23ce31972681.PNG)
 
-![f3](https://user-images.githubusercontent.com/55556198/233422878-a32750db-56a0-463f-ab91-6c89949c62d2.PNG)
