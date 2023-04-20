@@ -101,7 +101,7 @@ public class LoginForm extends JFrame implements ActionListener
 			pass_word=password;
 
 			
-			Connection connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "system","ruqayya");
+			Connection connection = DriverManager.getConnection("jdbc:mysql:thin:@localhost:1521:xe", "system","abhii");
 			//System.out.println("Connection...");
 			PreparedStatement st = connection.prepareStatement("Select fullName, password from Registration where fullName=? and password=?");
 
