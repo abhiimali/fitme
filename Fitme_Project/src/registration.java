@@ -27,7 +27,7 @@ import javax.swing.border.EmptyBorder;
 //REGESTRATION
 /**
  *
- * @author Ruqayya
+ * @author Abhii 
  */
 public class registration extends JFrame  {
 //	JFrame      frame;
