@@ -165,7 +165,7 @@ public class registration extends JFrame  {
         		}
 
                 try {
-                    Connection connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "system", "abhii");
+                    Connection connection = DriverManager.getConnection("jdbc:mysql:thin:@localhost:1521:xe", "system", "abhii");
 
                     String query = "INSERT INTO fitme_reg values('" + firstName + "','" + lastName + "','" + userName + "','" +
                         password + "','" + emailId + "','" + mobileNumber + "')";
